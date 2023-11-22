@@ -8,7 +8,7 @@ const Technologies = () =>  (
 <SectionDivider/>
 <br/>
 <SectionTitle>Technologies</SectionTitle>
-<SectionText>some text</SectionText>
+{/* <SectionText>some text</SectionText> */}
 <List>
   <ListItem>
     <DiReact size="3rem"/>
@@ -16,7 +16,7 @@ const Technologies = () =>  (
       <ListTitle>Front-End</ListTitle>
       <ListParagraph>
         Experience with <br/>
-        React.js
+        React.js and Angular 2+
       </ListParagraph>
     </ListContainer>
   </ListItem>
@@ -26,7 +26,7 @@ const Technologies = () =>  (
       <ListTitle>Back-End</ListTitle>
       <ListParagraph>
         Experience with <br/>
-        Node and Databases
+        Node, C# and Databases
       </ListParagraph>
     </ListContainer>
   </ListItem>

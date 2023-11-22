@@ -12,7 +12,7 @@ const Hero = () => (
       My Personal Portfolio
       </SectionTitle>
       <SectionText>
-        some text
+        My name is Faik Pirinçci. I am a sofware developer from Turkey
       </SectionText>
       <Button onClick={()=> window.location = "https://google.com"}>Learn More</Button>
     </LeftSection>
