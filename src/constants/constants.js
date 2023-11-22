@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Snapgram',
     description: "This is a social media web app which you can share photos, see other people's posts, like and save them. It has an explore page which has infinite scroll.",
-      image: '/images/snap.PNG',
+      image: '/images/snap.png',
       tags: ['React', 'Appwrite', 'Tailwind', 'React Queries'],
     source: 'https://github.com/Faik2010/snapgram',
     visit: 'https://social-media-eight-flame.vercel.app/',
